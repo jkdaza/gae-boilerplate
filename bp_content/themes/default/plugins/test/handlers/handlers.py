@@ -9,7 +9,7 @@
 
 from bp_includes.lib.basehandler import BaseHandler
 
-class EditorHandler(BaseHandler):
+class TestHandler(BaseHandler):
     """
     Handler for test
     """
