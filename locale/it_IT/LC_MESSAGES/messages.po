@@ -80,16 +80,16 @@ msgid ""
 msgstr ""
 
 msgid "Contact"
-msgstr "Contattare"
+msgstr "Contatti"
 
 msgid "Country"
 msgstr "Stato"
 
 msgid "Created"
-msgstr ""
+msgstr "Creato"
 
 msgid "Current Email"
-msgstr ""
+msgstr "Email attuale"
 
 msgid "Current Password"
 msgstr "Password attuale"
@@ -107,22 +107,22 @@ msgid "Email"
 msgstr "Email"
 
 msgid "Enter a new email address"
-msgstr ""
+msgstr "Inserire un indirizzo email"
 
 msgid "Enter your"
 msgstr "Inserire"
 
 msgid "Error sending the message. Please try again later."
-msgstr ""
+msgstr "Errore invio messaggio. Si prega di riprovare più tardi."
 
 msgid "Existing social association"
-msgstr ""
+msgstr "Associazione già esistente"
 
 msgid "Facebook association added!"
-msgstr ""
+msgstr "Associazione Facebook inserita!"
 
 msgid "Federated login is disabled."
-msgstr ""
+msgstr "Login centralizzato disabilitato."
 
 #, python-format
 msgid "Field cannot be longer than %(max)d characters."
@@ -143,13 +143,13 @@ msgid "Good Password"
 msgstr "Cambia la tua password"
 
 msgid "Google App Engine Boilerplate is released under the"
-msgstr ""
+msgstr "Google App Engine Boilerplate è distribuito con licenza"
 
 msgid "If the email address you entered"
-msgstr ""
+msgstr "Se l'indirizzo email inserito"
 
 msgid "If the username you entered"
-msgstr ""
+msgstr "Se il nome utente inserito"
 
 msgid ""
 "Incorrect password! Please enter your current password to change your "
@@ -158,10 +158,10 @@ msgstr ""
 
 #, fuzzy
 msgid "Insecure Password"
-msgstr "Reset password"
+msgstr "Password non sicura"
 
 msgid "Invalid email address."
-msgstr ""
+msgstr "Indirizzo email non valido"
 
 msgid "Language"
 msgstr "Lingua"
@@ -170,13 +170,13 @@ msgid "Last Name"
 msgstr "Cognome"
 
 msgid "Last Name invalid. Use only letters and numbers."
-msgstr ""
+msgstr "Cognome non valido. Usare solo lettere e numeri."
 
 msgid "Learn why this Boilerplate Rocks"
-msgstr "Puoi sapere perché questo Boilerplate è sorprendente"
+msgstr "Scopri perché questo Boilerplate è sorprendente"
 
 msgid "Linkedin association added!"
-msgstr ""
+msgstr "Associazione Linkedin creata!"
 
 msgid "Login"
 msgstr "Entra"
@@ -191,11 +191,11 @@ msgid "Name"
 msgstr "Nome"
 
 msgid "Name invalid. Use only letters and numbers."
-msgstr ""
+msgstr "Nome non valido. Usare solo lettere e numeri."
 
 #, fuzzy
 msgid "New Email"
-msgstr "Cambia il tuo email"
+msgstr "Cambia l'indirizzo email"
 
 msgid "New Password"
 msgstr "Nuova Password"
@@ -213,10 +213,10 @@ msgid "Password"
 msgstr "Password"
 
 msgid "Password changed successfully."
-msgstr ""
+msgstr "Password modificata con successo."
 
 msgid "Passwords must match."
-msgstr ""
+msgstr "Le password devono coincidere."
 
 msgid ""
 "Please check your new email for confirmation. Your email will be updated "
@@ -227,30 +227,30 @@ msgid "Remember me?"
 msgstr "Resta connesso"
 
 msgid "Remove"
-msgstr ""
+msgstr "Elimina"
 
 msgid "Reset password"
 msgstr "Reset password"
 
 msgid "Search User"
-msgstr ""
+msgstr "Cerca Utente"
 
 msgid "Secure Page"
-msgstr "Pagina d'accesso"
+msgstr "Pagina sicura"
 
 #, fuzzy
 msgid "Secure Password"
 msgstr "Reset password"
 
 msgid "Send Message"
-msgstr "Inviare il messaggio"
+msgstr "Inviare messaggio"
 
 #, fuzzy
 msgid "Short Password"
 msgstr "Reset password"
 
 msgid "Sign Up"
-msgstr "Crea Utente"
+msgstr "Registrati"
 
 #, python-format
 msgid "Social account on %s not found for this user."
@@ -294,10 +294,10 @@ msgid "The email %s is already registered."
 msgstr ""
 
 msgid "The link is invalid."
-msgstr ""
+msgstr "Il link non è valido."
 
 msgid "The two passwords must match."
-msgstr ""
+msgstr "Le due password devono coincidere."
 
 msgid "The username <strong>{}</strong> is already taken. Please choose another."
 msgstr ""
@@ -313,28 +313,28 @@ msgid "This %s account is already in use."
 msgstr ""
 
 msgid "This Facebook account is already in use!"
-msgstr ""
+msgstr "L'account Facebook è già in uso!"
 
 msgid "This Github account is already in use."
-msgstr ""
+msgstr "L'account Github è già in uso!"
 
 msgid "This Linkedin account is already in use!"
-msgstr ""
+msgstr "L'account Linkedin è già in uso!"
 
 msgid "This Twitter account is already in use."
-msgstr ""
+msgstr "L'account Twitter è già in uso!"
 
 msgid "This authentication method is not yet implemented."
-msgstr ""
+msgstr "Questo tipo di login non è ancora stato implememntato."
 
 msgid "Timezone"
-msgstr ""
+msgstr "Fuso orario"
 
 msgid "Twitter association added."
-msgstr ""
+msgstr "Associazione Twitter creata."
 
 msgid "Unable to update profile. Please try again later."
-msgstr ""
+msgstr "Non è possibile aggiornare il profile. Si progra di riporvare più tardi."
 
 #, python-format
 msgid "Unexpected error creating the user %s"
@@ -345,13 +345,13 @@ msgid "Update Profile"
 msgstr "Modifica Profilo"
 
 msgid "Updated"
-msgstr ""
+msgstr "Aggiorna"
 
 msgid "User Details"
-msgstr ""
+msgstr "Dettagli Utente"
 
 msgid "User List"
-msgstr ""
+msgstr "Lista Utenti"
 
 msgid "User is logged out, but there was an error on the redirection."
 msgstr ""
@@ -360,16 +360,16 @@ msgid "Username"
 msgstr "Nome utente"
 
 msgid "Username invalid. Use only letters and numbers."
-msgstr ""
+msgstr "Nome utente non valido. Usare solo lettere e numeri."
 
 msgid "Username or Email"
-msgstr "Username o Email"
+msgstr "Nome utente o Email"
 
 msgid "Users Geolocation"
-msgstr ""
+msgstr "Geolocalizzazione Utenti"
 
 msgid "Visit Site"
-msgstr ""
+msgstr "Visite"
 
 msgid "Welcome <strong>{}</strong>, you are now logged in."
 msgstr ""
@@ -382,7 +382,7 @@ msgstr ""
 
 #, fuzzy
 msgid "You didn't change your email."
-msgstr "Cambia il tuo email"
+msgstr "Cambia il tuo indirizzo email"
 
 msgid ""
 "You were successfully registered. Please check your email to activate "
@@ -408,16 +408,16 @@ msgid "Your browser is <em>ancient!</em>"
 msgstr "Il tuo browser è <em>obsoleto!</em>"
 
 msgid "Your email has been successfully updated."
-msgstr ""
+msgstr "Il tuo indirizzo email è stato aggiornato."
 
 msgid "Your message was sent successfully."
-msgstr ""
+msgstr "Il tuo messaggio è stato inviato."
 
 msgid "Your new username is <strong>{}</strong>"
 msgstr ""
 
 msgid "Your session has expired."
-msgstr ""
+msgstr "La sessione è scaduta."
 
 msgid ""
 "Your username or password is incorrect. Please try again (make sure your "
@@ -425,11 +425,11 @@ msgid ""
 msgstr ""
 
 msgid "click here"
-msgstr ""
+msgstr "clicca qui"
 
 #, fuzzy
 msgid "contact us"
-msgstr "Contattare"
+msgstr "Contatti"
 
 msgid "download the Source Code"
 msgstr "scaricare il codice sorgente"
@@ -451,5 +451,5 @@ msgid "to help you to create your application."
 msgstr "per iniziare a creare la tua applicazione."
 
 msgid "to resend the email."
-msgstr ""
+msgstr "per ri-inviare l'email."
 
