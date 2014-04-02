@@ -5,6 +5,7 @@ RedirectRoute: http://webapp-improved.appspot.com/api/webapp2_extras/routes.html
 """
 from webapp2_extras.routes import RedirectRoute
 from bp_content.themes.default.handlers import handlers
+import sys
 
 secure_scheme = 'https'
 
@@ -20,6 +21,13 @@ def get_routes():
     return _routes
 
 def add_routes(app):
+    
+    # Loop though the "plugins" folder to import enabled plugins and their routes
+    for i in plugins.__all__:
+        __import__("plugins." + i + ".routes")
+        if hasattr(sys.modules["plugins." + i + ".routes"],'add_routes'):
+            sys.modules["plugins." + i + ".routes"].add_routes(app)
+
     if app.debug:
         secure_scheme = 'http'
     for r in _routes:
