@@ -5,6 +5,7 @@ RedirectRoute: http://webapp-improved.appspot.com/api/webapp2_extras/routes.html
 """
 from webapp2_extras.routes import RedirectRoute
 from bp_content.themes.default.handlers import handlers
+import bp_content.themes.default.plugins as plugins
 import sys
 
 secure_scheme = 'https'
